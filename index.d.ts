@@ -4,7 +4,7 @@
 // Definitions: https://github.com/DefinitelyTyped/DefinitelyTyped
 // TypeScript Version: 2.3
 
-import * as request from "request";
+import * as request from "postman-request";
 
 declare namespace NodeVault {
     interface Option {
